@@ -1,0 +1,9 @@
+1.E-wallets or Mobile –wallets turn your phone into money-carrying devices. This means that you must keep your phone in safe place.The device must have a screen lock and any other safety feature supported by its hardware, such as a thumb print recognition system etc. This feature would be an immediate deterrent to anyone who wants to unlock your phone to see its contents.
+
+2.Ensure that password for all your online financial service apps i.e. Net banking, Mobile Banking, Online Purchasing, Online Trading, or e-wallets, is complex, 8 bit character long, mix of alphanumeric and special characters, along with upper and lower casing etc.This would be your second line of defence in case someone manages to unlock your phone and access your apps.
+
+3.Always maintain balance in your E-wallet or Mobile Wallet as per your requirement.This will help you in case your phone gets unlocked by miscreants, they won’t have a large balance to transfer from your account, and this would minimize your damage.
+
+4.After using Internet Banking, Mobile Banking or other financial apps, remember to exit them by using the logout function otherwise the risk described in point # 1 come into play.Make “Log out” as a habit, and anyone misusing your phone will have to get past the login in order to access your funds.
+
+5.Always check the payee details and the amount you’re transferring twice before you release the money or online transfer.In case of payment through Net banking the transaction password, OTP feature is there, however, while using E-wallet or Mobile wallet work as a pre-paid balance and there’s no confirmation screen or password prompts. Once you input the details of the payee and hit the “submit” button, the money is sent instantly.
